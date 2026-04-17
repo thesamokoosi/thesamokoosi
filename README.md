@@ -1,4 +1,4 @@
-# 🤖 Hi, I'm Samuel | Data Scientist & AI/ML Ethusiast 📊
+# 🤖 Hi, I'm Samuel | Data Scientist, Researcher & AI/ML Ethusiast 📊
 
 ### 🔬 Research & Focus
 - 🔭 **Currently Focusing on**: Advanced Predictive Modeling and Neural Networks.
