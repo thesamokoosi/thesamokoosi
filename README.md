@@ -1,5 +1,5 @@
 # 🤖 Hi, I'm Samuel 
- ##### A researcher, Data Scientist and ML expert
+ ### I'm Statistics Graduate & AI Researcher
 
 ### 🔬 Research & Focus
 - 🔭 **Currently Focusing on**: Advanced Predictive Modeling and Neural Networks.
