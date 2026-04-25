@@ -9,4 +9,4 @@
 
 ---
 ### 📫 Let's Connect
-[LinkedIn](https://linkedin.com/in/thesamokoosi) | [Portfolio Website](https://YOUR_WEBSITE.com)
+[LinkedIn](https://linkedin.com/in/thesamokoosi) | [Portfolio Website](https://thesamokoosi.vercel.app)
